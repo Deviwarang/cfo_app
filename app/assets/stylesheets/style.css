@@ -1,0 +1,201 @@
+
+body {
+	background-color: #ECECBB;
+}
+
+.well {
+	background-color: #CCCCA4;
+}
+
+.box {
+	font-size: 1.050em;
+	background: #CCCCA4;  
+	padding: 20px;
+	color: #000;
+	border: solid;
+
+}
+
+.ex {
+	background-color: #fff;
+	padding: 20px;
+}
+
+.hero-unit {
+	background-color: #36405D;
+	color: #FFF;
+}
+
+.unit {
+	padding: 40px 10px 50px 20px;
+	background-color: #FFF;
+	border-color: #F45808;
+	
+
+}
+
+.unit1 {
+	padding: 20px 10px 10px 10px;
+	background-color: #FFF;
+	border-color: #F45808;
+	margin-top: 0;
+
+}
+p {
+	font-size: 1em;
+}
+.pull-right {
+	
+	border:10px;
+	float: left;
+}
+
+.accordion-inner {
+	
+	font-style: bold;
+
+}
+
+.wrap {
+	height: 585px;
+	width: 300px;
+	position: absolute;
+	perspective: 700;
+}
+
+.wrap {
+	height: 100%;
+	position: absolute;
+	width: 100%
+	
+	
+}
+
+
+.wrap .side-a {
+
+	
+	
+	height: 100%;
+	width: 100%
+}
+
+
+.accordion-toggle {
+	color: blue;
+}
+.nav {
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+	
+.unitbox {
+
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+.ans {
+	text-decoration: underline;
+	color: darkblue;
+}
+
+ ul {
+
+	list-style-type: none;
+}
+
+ ul #req li  {
+	background: url('marker.png') no-repeat 0 2px;
+	padding-left: 35px;
+}
+
+li{
+	margin-bottom: 1.2em;
+}
+
+#sevices img {
+	box-sizing: border-box;
+	border: 8px solid #EA8A5A;
+	background-color: #faf3bc;
+	padding: 8px;
+	margin: 0 0 5% 0;
+}
+
+#cfogon img {
+	box-sizing: border-box;
+	border: 8px solid #EA8A5A;
+	background-color: #faf3bc;
+	padding: 8px;
+	margin: 0 0 0 0;
+
+}
+
+
+#box {
+	background-color: #F1B496;
+	width:300px;
+	height: 300px;
+	padding:10px;
+	
+	border:5px solid gray;
+margin:0px;
+}
+
+
+#supportre {
+width:300px;
+	height: 620px;
+	padding:10px;
+border:5px solid gray;
+margin:0px;
+background-color: #F1B496;
+	
+
+
+}
+
+.faqunit {
+	padding: 40px 10px 50px 20px;
+	background-color: #FFF;
+	border-color: #F45808;
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+ 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
